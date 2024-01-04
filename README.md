@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Karthik.J
+- 👋 Hi, I’m @ Karthik.J
 - 👀 I’m interested in DevOps and Cloud
 - 🌱 I’m currently learning DevOps tools
 - 📫 How to reach me ...
